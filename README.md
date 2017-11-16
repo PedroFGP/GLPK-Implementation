@@ -67,7 +67,7 @@ Desenvolvido no IDE Visual Studio com a linguagem C#.
 
 ![FrontEnd 2](https://imgur.com/50xHw5K.png)
 
-![FrontEnd 3](https://imgur.com/sL9YxKC.png)
+![FrontEnd 3](https://imgur.com/VsU3WxY.png)
 
 ## Créditos
 
