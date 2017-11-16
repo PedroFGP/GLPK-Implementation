@@ -71,7 +71,7 @@ Desenvolvido no IDE Visual Studio com a linguagem C#.
 
 ## Créditos
 
-**Pedro Pereira** (Front End, deploy e ajuda no Back End)  
-**Débora Deslandes** (Back End)  
+**Pedro Pereira** (Front End, deploy e Back End)  
+**Débora Deslandes** (ajuda no Back End)  
 **Ícone** feito por [Smashicons](https://www.flaticon.com/authors/smashicons "Smashicons") do site www.flaticon.com# GLPK-Implementation
 Implementação da biblioteca GLPK para java em nuvem (Webservice Java) e com front end feito em C#
